@@ -1,5 +1,5 @@
 # 🌍 Solar System Simulation
-### Computer Graphics & Visualization — BTech Project
+### Computer Graphics & Visualization
 **Language:** C++ | **API:** OpenGL 2.1 + GLFW + GLM | **Platform:** macOS
 
 ---
